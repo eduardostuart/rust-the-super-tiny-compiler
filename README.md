@@ -17,3 +17,7 @@ cargo run --example compiler
 ```sh
 cargo test
 ```
+
+## License
+
+[MIT](./LICENSE)
